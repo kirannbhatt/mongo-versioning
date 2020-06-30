@@ -1,6 +1,6 @@
 {
   "name": "mongo-versioning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mongoose plugin for document versioning",
   "scripts": {
     "test": "mocha --recursive -R spec test/"
