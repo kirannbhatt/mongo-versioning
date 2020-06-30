@@ -8,10 +8,7 @@
   "keywords": [
     "mongoose-versioning"
   ],
-  "author": {
-    "name": "Kiran Bhatt",
-    "email": "https://github.com/kirannbhatt"
-  },
+  "author": "Kiran Bhatt <https://github.com/kirannbhatt>",
   "license": "ISC",
   "main": "lib/index.js",
   "devDependencies": {
@@ -19,5 +16,16 @@
     "lodash": "^2.4.1",
     "mocha": "^1.21.4",
     "mongoose-q": "0.0.10"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirannbhatt/mongo-versioning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kirannbhatt/mongo-versioning/issues"
+  },
+  "homepage": "https://github.com/kirannbhatt/mongo-versioning#readme"
 }
