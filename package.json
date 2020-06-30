@@ -1,0 +1,23 @@
+{
+  "name": "mongo-versioning",
+  "version": "1.0.0",
+  "description": "Mongoose plugin for document versioning",
+  "scripts": {
+    "test": "mocha --recursive -R spec test/"
+  },
+  "keywords": [
+    "mongoose-versioning"
+  ],
+  "author": {
+    "name": "Kiran Bhatt",
+    "email": "https://github.com/kirannbhatt"
+  },
+  "license": "ISC",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "lodash": "^2.4.1",
+    "mocha": "^1.21.4",
+    "mongoose-q": "0.0.10"
+  }
+}
